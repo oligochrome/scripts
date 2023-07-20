@@ -4,12 +4,11 @@
 // @match          https://web.simple-mmo.com/armoury/*
 // @match          https://web.simple-mmo.com/market/listings?user_id=476520*
 // @grant          none
-// @version        1.0
+// @version        1.0.1
 // @author         Ogliochrome
 // @license        GNU GPL
-// @version        1.0
 // @language       en
-// @description    09/05/2023, 17:01:25
+// @description    Wide table in the item hall
 // @updateurl      https://github.com/oligochrome/scripts/raw/main/SMMO%20-%20Item%20Hall%20Wide%20Table%20-%20simple-mmo.com.user.js
 
 // ==/UserScript==
