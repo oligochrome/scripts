@@ -5,7 +5,7 @@
 // @match       https://www.facebook.com/reel/*
 // @match       https://snapsave.app/
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      -
 // @description 10/22/2022, 4:10:55 AM
 // @grant       GM_setValue

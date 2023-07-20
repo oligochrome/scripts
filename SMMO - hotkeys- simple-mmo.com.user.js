@@ -4,7 +4,7 @@
 // @namespace   - simple-mmo.com -
 // @match       https://web.simple-mmo.com/travel
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      -
 // @description 8/9/2022, 7:27:25 PM
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js

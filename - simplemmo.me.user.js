@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://simplemmo.me/mobile/*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 2/1/2023, 3:52:05 PM
 

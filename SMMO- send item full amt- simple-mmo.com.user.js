@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/senditem/*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 1/31/2023, 9:50:17 PM
 

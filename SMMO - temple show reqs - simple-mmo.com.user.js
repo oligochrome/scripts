@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/temple
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 10/3/2022, 10:39:12 PM
 // @run-at      document-body

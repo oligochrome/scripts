@@ -4,7 +4,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://snapsave.app/
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      -
 // @description 10/22/2022, 4:22:02 AM
 // @grant       GM_setValue

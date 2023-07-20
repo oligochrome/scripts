@@ -6,7 +6,7 @@
 // @match       https://web.simple-mmo.com/inventory/*
 // @match       https://web.simple-mmo.com/inventory/storage*
 /*// @match       https://web.simple-mmo.com/market/listings* */
-// @version     1.0
+// @version     1.0.0
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 // @description 8/8/2022, 9:20:10 PM
 // ==/UserScript==

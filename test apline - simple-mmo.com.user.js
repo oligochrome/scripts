@@ -3,7 +3,7 @@
 // @updateURL   https://github.com/oligochrome/scripts/raw/main/test apline - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/inventory/*
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 10/2/2022, 7:11:19 PM
 // @inject-into page

@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://business.facebook.com/latest/composer*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 6/10/2023, 10:25:26 AM
 

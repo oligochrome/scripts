@@ -6,7 +6,7 @@
 // @match       https://web.simple-mmo.com/trades/view/*
 // @exclude     https://web.simple-mmo.com/trades/view/*/add/gold
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 10/4/2022, 9:39:32 AM
 // ==/UserScript==

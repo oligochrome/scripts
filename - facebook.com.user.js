@@ -6,7 +6,7 @@
 // @include    https://www.facebook.com/*/videos/*/*
 // @include    https://www.facebook.com/watch/*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 6/2/2023, 6:48:46 AM
 

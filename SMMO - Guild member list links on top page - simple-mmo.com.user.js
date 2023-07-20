@@ -5,7 +5,7 @@
 // @match       https://web.simple-mmo.com/guilds/view/971/members
 // @match       https://web.simple-mmo.com/guilds/view/39/members
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 4/14/2023, 12:33:24 AM
 // @updateURL https://github.com/oligochrome/scripts/blob/raw/SMMO%20-%20Guild%20member%20list%20links%20on%20top%20page%20-%20simple-mmo.com.user.js

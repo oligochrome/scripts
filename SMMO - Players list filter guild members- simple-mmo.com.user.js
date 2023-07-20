@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/userlist/all*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 4/14/2023, 12:53:32 AM
 // ==/UserScript==

@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/battle/colosseum
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 10/21/2022, 10:23:46 PM
 

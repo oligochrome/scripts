@@ -6,7 +6,7 @@
 // @exclude     https://web.simple-mmo.com/leaderboards/view/*/daily?new_page=true&guild=39*
 // @exclude     https://web.simple-mmo.com/leaderboards/view/crafting-diamonds*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 1/23/2023, 2:23:52 AM
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js

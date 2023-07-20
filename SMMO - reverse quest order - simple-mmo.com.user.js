@@ -6,7 +6,7 @@
 // @require     https://github.com/oligochrome/Userscripts/raw/master/SMMO/Includes/Commonfuncs.user.js
 // @updateURL   https://github.com/oligochrome/Userscripts/raw/master/SMMO/Quests Sort Order Reverse.user.js
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 3/5/2023, 10:21:48 PM
 // ==/UserScript==

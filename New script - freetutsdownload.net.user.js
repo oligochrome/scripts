@@ -4,7 +4,7 @@
 // @namespace   Violentmonkey Scripts
 // @include       https://freetutsdownload.net/redirect-to/*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      -
 // @description 08/04/2021, 22:14:00
 // ==/UserScript==

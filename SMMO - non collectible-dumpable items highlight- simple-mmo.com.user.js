@@ -7,7 +7,7 @@
 // @exclude     https://web.simple-mmo.com/market/listings?user_id=476520
 // @match       https://web.simple-mmo.com/inventory/storage*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      -
 // @description 8/26/2022, 4:04:41 AM
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js

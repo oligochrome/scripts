@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match    https://web.simple-mmo.com/gamecentre/5050*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 9/19/2022, 4:08:35 PM
 // @updateURL https://github.com/oligochrome/scripts/blob/raw/SMMO%20-%205050-%20simple-mmo.com.user.js

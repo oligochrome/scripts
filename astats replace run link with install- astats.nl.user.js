@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://astats.astats.nl/astats/Steam_Game_Info.php
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 4/15/2023, 2:31:02 AM
 

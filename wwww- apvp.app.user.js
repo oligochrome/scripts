@@ -7,7 +7,7 @@
 //
 
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      -
 // @description 9/16/2022, 8:24:13 PM
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js

@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://smmo-db.com/items/show/*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 5/17/2023, 8:43:27 AM
 

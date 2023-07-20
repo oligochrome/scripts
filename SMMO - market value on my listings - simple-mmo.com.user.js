@@ -6,7 +6,7 @@
 // @match       https://web.simple-mmo.com/inventory/storage*
 // @exclude     https://web.simple-mmo.com/market/listings?rarity%5B0%5D=*&type%5B0%5D=Material&item_name=%5C%28tradable%5C%29&order_col=cost&order=asc&page=1
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 10/22/2022, 9:49:04 AM
 

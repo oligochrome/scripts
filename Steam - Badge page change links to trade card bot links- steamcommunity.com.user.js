@@ -4,7 +4,7 @@
 // @namespace      https://github.com/oligochrome
 // @match       https://steamcommunity.com/id/alcoolemia/badges/
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      Ogliochrome
 // @description 4/1/2023, 4:48:06 AM
 

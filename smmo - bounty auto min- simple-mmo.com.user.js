@@ -5,7 +5,7 @@
 // @include       https://web.simple-mmo.com/user/view/*
 // @exclude     https://web.simple-mmo.com/user/view/827105*
 // @grant       none
-// @version     1.0
+// @version     1.0.0
 // @author      -
 // @description 8/27/2022, 12:35:38 AM
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
