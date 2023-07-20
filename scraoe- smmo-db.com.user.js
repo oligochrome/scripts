@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        scraoe- smmo-db.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/scraoe- smmo-db.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://smmo-db.com/items/search*
 // @grant       none

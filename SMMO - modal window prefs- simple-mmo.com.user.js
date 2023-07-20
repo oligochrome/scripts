@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - modal window prefs- simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - modal window prefs- simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/*
 // @grant       GM_registerMenuCommand

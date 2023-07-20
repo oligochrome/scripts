@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Instagram Downloader
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Instagram Downloader.user.js
 // @namespace    https://lawrenzo.com/p/direct-picture-link
 // @version      1.3.2
 // @description  Quick 'n dirty little userscript for accessing pictures and videos off of Instagram. Everything is accessed via right-clicking image or video. Note: for videos requires viewing the actual post (not just in the feed).

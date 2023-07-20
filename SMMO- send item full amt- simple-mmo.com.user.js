@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO- send item full amt- simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO- send item full amt- simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/senditem/*
 // @grant       none

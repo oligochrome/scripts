@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        Steam - Badge page change links to trade card bot links- steamcommunity.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Steam - Badge page change links to trade card bot links- steamcommunity.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://steamcommunity.com/id/alcoolemia/badges/
 // @grant       none

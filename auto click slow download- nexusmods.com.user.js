@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        auto click slow download- nexusmods.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/auto click slow download- nexusmods.com.user.js
 // @namespace      https://github.com/oligochrome
 // @include       https://www.nexusmods.com/*/mods/*?tab=files&file_id=*
 // @grant       none

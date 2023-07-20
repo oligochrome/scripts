@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name          Bing Dark Theme
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Bing Dark Theme.user.js
 // @namespace     http://userstyles.org
 // @description	  This style gives you a full on dark themed experience for bing.com (the official search engine for Windows by Microsoft that comes default on edge).
 // @author        Cairo Mitchell-Acason

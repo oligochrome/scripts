@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        Bing Search Dark Night Mode Theme 
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Bing Search Dark Night Mode Theme .user.js
 // @namespace   english
 // @description Bing Search Dark Night Mode Theme - currently undergoing build
 // @include     http*://*bing.*/search?*

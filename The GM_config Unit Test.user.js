@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name          The GM_config Unit Test
+// @name          The GM
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/The GM.user.js_config Unit Test
 // @namespace     sizzlemctwizzle
 // @description   Attempts to test every aspect of GM_config.
 // @license       MIT

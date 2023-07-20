@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        smmo - colliseum dead player hider - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/smmo - colliseum dead player hider - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/battle/colosseum
 // @grant       none

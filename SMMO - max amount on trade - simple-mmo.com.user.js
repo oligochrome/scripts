@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name       SMMO - max amount on trade - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - max amount on trade - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/trades/view/*
 // @grant       none

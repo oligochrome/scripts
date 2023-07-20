@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO- NPC inspect linked location- simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO- NPC inspect linked location- simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/npc/inspect/*
 // @grant       none

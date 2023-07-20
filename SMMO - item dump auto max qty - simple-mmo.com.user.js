@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - item dump auto max qty - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - item dump auto max qty - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/item-dump/items/dump/*
 // @grant       none

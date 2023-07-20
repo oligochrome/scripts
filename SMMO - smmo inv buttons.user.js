@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - smmo inv buttons
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - smmo inv buttons.user.js
 // @namespace   smmo inv buttons
 // @match       https://web.simple-mmo.com/inventory
 // @match       https://web.simple-mmo.com/inventory/*

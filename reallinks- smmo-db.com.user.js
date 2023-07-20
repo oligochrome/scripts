@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        reallinks- smmo-db.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/reallinks- smmo-db.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://smmo-db.com/items/show/*
 // @grant       none

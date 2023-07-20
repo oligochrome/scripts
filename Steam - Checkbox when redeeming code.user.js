@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Steam - Checkbox when redeeming code
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Steam - Checkbox when redeeming code.user.js
 // @namespace      https://github.com/oligochrome
 // @description    sdfsd
 // @author         oligochrome

@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        - google.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/- google.com.user.js
 // @namespace   https://github.com/oligochrome
 // @author      Oligochrome
 // @icon        https://raw.githubusercontent.com/oligochrome/oligochrome/main/ogliochrome_icon.png

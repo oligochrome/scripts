@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        New script - facebook.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/New script - facebook.com.user.js
 // @namespace   Violentmonkey Scripts
 // @match       https://www.facebook.com/reel/*
 // @match       https://snapsave.app/

@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - canned text profile welcome - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - canned text profile welcome - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/user/view/*
 // @grant       none

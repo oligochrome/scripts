@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           SMMO - market big buy button
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - market big buy button.user.js
 // @namespace      https://github.com/oligochrome
 // @match          https://web.simple-mmo.com/market/listings
 // @grant          none

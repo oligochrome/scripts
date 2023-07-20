@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           SMMO - slot tracker- - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - slot tracker- - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match          https://web.simple-mmo.com/gamecentre/slots
 // @grant          none

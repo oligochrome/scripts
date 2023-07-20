@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        astats replace run link with install- astats.nl
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/astats replace run link with install- astats.nl.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://astats.astats.nl/astats/Steam_Game_Info.php
 // @grant       none

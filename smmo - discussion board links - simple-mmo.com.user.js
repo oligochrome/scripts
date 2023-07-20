@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name       smmo - discussion board links - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/smmo - discussion board links - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match    https://web.simple-mmo.com/discussionboards/category/*
 // @grant       none

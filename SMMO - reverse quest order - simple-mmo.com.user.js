@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - reverse quest order - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - reverse quest order - simple-mmo.com.user.js
 // @namespace   https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/quests/viewall
 // @require     https://github.com/oligochrome/Userscripts/raw/master/SMMO/Includes/Commonfuncs.user.js

@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        wwww- apvp.app
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/wwww- apvp.app.user.js
 // @namespace   - apvp.app -
 
 // @match       https://www.apvp.app/*

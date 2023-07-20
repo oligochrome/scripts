@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        smmo - bounty auto min- simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/smmo - bounty auto min- simple-mmo.com.user.js
 // @namespace   - simple-mmo.com -
 // @include       https://web.simple-mmo.com/user/view/*
 // @exclude     https://web.simple-mmo.com/user/view/827105*

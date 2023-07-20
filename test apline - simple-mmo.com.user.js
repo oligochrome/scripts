@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        test apline - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/test apline - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/inventory/*
 // @version     1.0

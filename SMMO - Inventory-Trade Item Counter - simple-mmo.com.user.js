@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name        SMMO - Inventory/Trade Item Counter - simple-mmo.com
+// @name        SMMO - Inventory
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - Inventory.user.js/Trade Item Counter - simple-mmo.com
 // @namespace   https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/inventory/items*
 // @match       https://web.simple-mmo.com/trades/view/*

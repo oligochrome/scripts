@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        New script - freetutsdownload.net
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/New script - freetutsdownload.net.user.js
 // @namespace   Violentmonkey Scripts
 // @include       https://freetutsdownload.net/redirect-to/*
 // @grant       none

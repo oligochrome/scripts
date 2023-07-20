@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Steam - AStats game info
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Steam - AStats game info.user.js
 // @description  Add time to beat info and players rating form AStats.nl to Steam store pages.
 // @author       Xeloses
 // @version      1.0.1

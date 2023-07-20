@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Applying Custom Tags to Guides
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Applying Custom Tags to Guides.user.js
 // @icon         https://store.steampowered.com/favicon.ico
 // @namespace    steam
 // @version      1.1

@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           SMMO - Item Hall Wide Table - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - Item Hall Wide Table - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match          https://web.simple-mmo.com/armoury/*
 // @match          https://web.simple-mmo.com/market/listings?user_id=476520*

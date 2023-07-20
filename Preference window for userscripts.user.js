@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Preference window for userscripts
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Preference window for userscripts.user.js
 // @namespace      https://userscripts-mirror.org/users/75950
 // @description    Show a preference window for your userscript (inspired by "Greasemonkey Shell" by DavidJCobb https://userscripts-mirror.org/scripts/show/45517)
 // @version        1.0.2

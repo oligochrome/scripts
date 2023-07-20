@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - hotkeys- simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - hotkeys- simple-mmo.com.user.js
 // @namespace   - simple-mmo.com -
 // @match       https://web.simple-mmo.com/travel
 // @grant       none

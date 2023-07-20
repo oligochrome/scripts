@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO -  quests button bigger - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO -  quests button bigger - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/quests/view/*
 // @grant       none

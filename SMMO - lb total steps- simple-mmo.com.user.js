@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - lb total steps- simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - lb total steps- simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/leaderboards/view/steps/daily
 // @grant       none

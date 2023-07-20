@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Consume Knick Knacks
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Consume Knick Knacks.user.js
 // @icon         https://store.steampowered.com/favicon.ico
 // @namespace    steam
 // @version      1.1

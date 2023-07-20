@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Extended Guide Editing
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Extended Guide Editing.user.js
 // @icon         https://store.steampowered.com/favicon.ico
 // @namespace    steam
 // @version      2.4

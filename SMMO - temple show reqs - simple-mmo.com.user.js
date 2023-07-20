@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name       SMMO - temple show reqs - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - temple show reqs - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/temple
 // @grant       none

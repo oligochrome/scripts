@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        - simplemmo.me
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/- simplemmo.me.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://simplemmo.me/mobile/*
 // @grant       none

@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Batch Keys Activator
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Batch Keys Activator.user.js
 // @icon         https://store.steampowered.com/favicon.ico
 // @namespace    steam
 // @version      2.5.2

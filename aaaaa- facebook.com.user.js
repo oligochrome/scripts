@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        aaaaa- facebook.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/aaaaa- facebook.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://business.facebook.com/latest/composer*
 // @grant       none

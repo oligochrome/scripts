@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name           Steam auto sell button
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Steam auto sell button.user.js
 // @description    adds auto sell button (starting at price) and sells, also minifies inventory page
 // @namespace      https://github.com/oligochrome
 // @author         oligochrome

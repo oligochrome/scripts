@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        smmo-wiki.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/smmo-wiki.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://smmo-wiki.com/register
 // @grant       none

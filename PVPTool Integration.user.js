@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         PVPTool Integration
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/PVPTool Integration.user.js
 // @namespace    https://revogen.xyz/
 // @version      0.34
 // @description  Integration script for RevoGen's PVP Tool

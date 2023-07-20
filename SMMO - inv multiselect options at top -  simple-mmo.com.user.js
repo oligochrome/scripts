@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - inv multiselect options at top -  simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - inv multiselect options at top -  simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/inventory/items*
 // @grant       none

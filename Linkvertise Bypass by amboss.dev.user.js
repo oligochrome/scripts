@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Linkvertise Bypass by amboss.dev
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Linkvertise Bypass by amboss.dev.user.js
 // @version      1.1
 // @description  Bypasses Linkvertise urls and redirects to the target url.
 // @namespace https://amboss.dev/

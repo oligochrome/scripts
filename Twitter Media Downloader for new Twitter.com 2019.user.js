@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name            Twitter Media Downloader for new Twitter.com 2019
+// @name            Twitter Media Downloader for new Twitter.com 
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/Twitter Media Downloader for new Twitter.com .user.js2019
 // @description     Download media files on new Twitter.com 2019.
 // @version         0.1.5.0
 // @namespace       https://memo.furyutei.work/

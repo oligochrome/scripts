@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        SMMO - Guild member list links on top page - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - Guild member list links on top page - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/guilds/view/971/members
 // @match       https://web.simple-mmo.com/guilds/view/39/members

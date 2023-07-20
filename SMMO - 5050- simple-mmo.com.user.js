@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name        SMMO - 5050- simple-mmo.com
+// @name        SMMO - 
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - .user.js5050- simple-mmo.com
 // @namespace      https://github.com/oligochrome
 // @match    https://web.simple-mmo.com/gamecentre/5050*
 // @grant       none

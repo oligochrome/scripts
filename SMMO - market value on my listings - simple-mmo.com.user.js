@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name       SMMO - market value on my listings - simple-mmo.com
+// @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - market value on my listings - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/market/listings
 // @match       https://web.simple-mmo.com/inventory/storage*
