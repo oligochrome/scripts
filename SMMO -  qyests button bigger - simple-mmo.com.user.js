@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        SMMO -  qyests button bigger - simple-mmo.com
+// @name        SMMO -  quests button bigger - simple-mmo.com
 // @namespace      https://github.com/oligochrome
 // @match       https://web.simple-mmo.com/quests/view/*
 // @grant       none
