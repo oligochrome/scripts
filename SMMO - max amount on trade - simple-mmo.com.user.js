@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name       SMMO - max amount on trade - simple-mmo.com
+// @namespace      https://github.com/oligochrome
+// @match       https://web.simple-mmo.com/trades/view/*
+// @grant       none
+// @version     1.0
+// @author      Ogliochrome
+// @description 2/14/2023, 4:11:58 PM
+/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+// ==/UserScript==
+if(document.querySelector("#bank-input")){
+
+
+let amt = parseInt(document.body.getElementsByClassName("text-sm text-gray-400")[1].innerText.split('You have ')[1].split(' of this item')[0])
+document.querySelector("#bank-input").value = amt
+  }
