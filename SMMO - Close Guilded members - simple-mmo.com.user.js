@@ -9,6 +9,7 @@
 // @version        1.0
 // @language       en
 // @description    09/05/2023, 17:36:25
+// @updateURL https://github.com/oligochrome/scripts/blob/raw/SMMO%20-%20Close%20Guilded%20members%20-%20simple-mmo.com.user.js
 // ==/UserScript==
 const savedValue = localStorage.getItem("lbhide");
 if (savedValue && savedValue === "true") {
