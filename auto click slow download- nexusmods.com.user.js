@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 6/26/2023, 9:37:53 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 document.querySelector("#slowDownloadButton").click()

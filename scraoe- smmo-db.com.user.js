@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 10/3/2022, 12:39:50 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 const sleep = (milliseconds) => {
   return new Promise(resolve => setTimeout(resolve, milliseconds))

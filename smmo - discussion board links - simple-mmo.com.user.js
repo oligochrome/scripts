@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 9/18/2022, 9:25:16 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 const smmourlbase = "https://web.simple-mmo.com"
 let x = document.body.getElementsByClassName("bg-white rounded-lg")[1].childNodes[1].childNodes

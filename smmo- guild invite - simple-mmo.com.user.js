@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 1/7/2023, 4:38:12 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 var gid;
 var un = document.getElementsByClassName('text-indigo-600 hover:text-indigo-700')[0].innerText.split(' ')[1].split(' ')[0]

@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 4/21/2023, 5:50:21 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 let sidebar = document.getElementsByClassName('flex flex-col flex-grow border-r border-gray-200  pt-5 bg-white dark:bg-gray-950 overflow-y-auto')[0]
 

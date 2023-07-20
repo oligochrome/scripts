@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 4/14/2023, 6:05:12 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 if (dataArr === undefined){var dataArr = [];}else{}
 //var arr = [];

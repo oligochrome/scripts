@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 5/17/2023, 8:43:27 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 let but1 = document.querySelector("body > div > main > div > div > div > div.mt-4 > div > button:nth-child(1)")
 let but2 = document.querySelector("body > div > main > div > div > div > div.mt-4 > div > button:nth-child(2)")

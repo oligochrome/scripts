@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 3/2/2023, 9:30:20 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 let traveluri = "https://web.simple-mmo.com/horse-and-carriage/travel/"
 let townName = document.querySelector("body > div.h-screen.flex.overflow-hidden.bg-gray-100 > div.flex.flex-col.w-0.flex-1.overflow-hidden.relative > main > div.web-app-container > div > div.bg-white.dark\\:bg-gray-950.ring-1.ring-black.ring-opacity-5.shadow-sm.rounded-lg.mt-1.sm\\:mt-2.dark\\:ring-white.dark\\:ring-opacity-5 > nav > span > span.truncate.ml-2")

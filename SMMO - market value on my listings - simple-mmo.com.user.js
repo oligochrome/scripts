@@ -8,7 +8,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 10/22/2022, 9:49:04 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 document.querySelector("body > div.h-screen.flex.overflow-hidden.bg-gray-100 > div.flex.flex-col.w-0.flex-1.overflow-hidden.relative > main > div.web-app-container > div > div.lg\\:grid.lg\\:grid-cols-12.lg\\:gap-x-5 > div > div > div").style.overflowX = "visible"
 function removeCommas(str) {

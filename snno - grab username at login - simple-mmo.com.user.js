@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 10/21/2022, 11:21:06 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 // Create the element
 var script = document.createElement("script");

@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 5/16/2023, 8:20:28 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 

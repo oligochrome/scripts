@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 5/17/2023, 7:44:14 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 function css(element, style) {

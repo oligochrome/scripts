@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 1/31/2023, 11:35:09 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 // When the user clicks the button, open the modal

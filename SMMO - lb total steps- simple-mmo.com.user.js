@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 5/18/2023, 12:13:39 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 var total = 0

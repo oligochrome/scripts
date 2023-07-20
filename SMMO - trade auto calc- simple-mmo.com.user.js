@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 7/15/2023, 4:56:07 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 var tradeqty = document.getElementById("textq").innerText

@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 2/14/2023, 4:11:58 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 if(document.querySelector("#bank-input")){
 

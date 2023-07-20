@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 5/12/2023, 11:47:56 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 // This userscript allows you to store and insert canned text in text inputs.

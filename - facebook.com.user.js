@@ -8,7 +8,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 6/2/2023, 6:48:46 AM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 // Get the current URL
 var currentUrl = window.location.href;
