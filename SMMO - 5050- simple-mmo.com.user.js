@@ -6,7 +6,7 @@
 // @version     1.0
 // @author      Ogliochrome
 // @description 9/19/2022, 4:08:35 PM
-/* @require     https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js*/
+
 // ==/UserScript==
 
 function checkLoc(loc){
