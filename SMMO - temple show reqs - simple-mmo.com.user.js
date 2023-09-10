@@ -2,9 +2,9 @@
 // @name       SMMO - temple show reqs - simple-mmo.com
 // @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO - temple show reqs - simple-mmo.com.user.js
 // @namespace      https://github.com/oligochrome
-// @match       https://web.simple-mmo.com/temple
+// @match       https://web.simple-mmo.com/temple*
 // @grant       none
-// @version     1.0.0
+// @version     2.0.0
 // @author      Ogliochrome
 // @description 10/3/2022, 10:39:12 PM
 // @run-at      document-body
@@ -17,6 +17,7 @@ let a = document.getElementsByClassName('divide-y divide-gray-200 dark:divide-gr
 let p = document.getElementsByClassName('py-6 max-w-6xl mx-auto px-4 sm:px-6 md:px-8')[0].nextElementSibling
 
 itemreq = p.innerHTML.split(' 1x ')[1];
+    if(itemreq === undefined){itemreq = p.innerHTML.split(' 2x ')[1];}
 itemreq = itemreq.split('\',\n')[0];
 
 let b = a.firstElementChild.cloneNode(true)
