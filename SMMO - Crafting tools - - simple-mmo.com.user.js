@@ -115,7 +115,7 @@ function dragElement(elmnt) {
 css(
 document.querySelector("#modalFloat"), {
     'position': 'absolute',
-    'left': '100%', /* changed from 290px to 100% for better mobile/small view */
+    'left': '90%', /* changed from 290px to 90% for better mobile/small view */
     'top': '300px',
     'transform': 'translate(-50%, -50%)',
     'padding': '10px'
