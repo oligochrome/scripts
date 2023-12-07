@@ -7,7 +7,7 @@
 // @include     https://web.simple-mmo.com/inventory/items*
 // @exclude     https://web.simple-mmo.com/market/listings?user_id=476520
 // @match       https://web.simple-mmo.com/inventory/storage*
-// @version     1.0.1
+// @version     1.0.2
 // @grant       none
 // @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO%20-%20non%20collectible-dumpable%20items%20highlight-%20simple-mmo.com.user.js
 // ==/UserScript==
