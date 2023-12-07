@@ -7,7 +7,7 @@
 // @version        1.0
 // @author         Ogliochrome
 // @license        GNU GPL
-// @version        1.0
+// @version        2.0
 // @language       en
 // @description    05/02/2023, 18:55:37
 // @require        https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
@@ -46,9 +46,9 @@ if(id.style.display === 'none'){id.style.display = 'block'}else if(id.style.disp
 
 document.head.appendChild(script);
 var draggy = document.createElement('div');
-draggy.id = "mydiv";
+draggy.id = "modalFloat";
 var draggyH = document.createElement('div');
-draggyH.id = "mydivheader"
+draggyH.id = "modalFloatheader"
 draggyH.innerText = " ";
 
 draggy.appendChild(draggyH);
@@ -64,13 +64,13 @@ draglinks.id = "draglinks"
 draglinks.style.display = 'none'
 draggy.appendChild(draglinks);
 
-document.querySelector("#mydiv > button").outerHTML = '<button id="dragB">click</button>'
+document.querySelector("#modalFloat > button").outerHTML = '<button id="dragB">click</button>'
 //<button id="dragB" onclick=togg()>click</button>
 
 
 
 //Make the DIV element draggagle:
-dragElement(document.getElementById("mydiv"));
+dragElement(document.getElementById("modalFloat"));
 
 function dragElement(elmnt) {
   var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
@@ -113,9 +113,9 @@ function dragElement(elmnt) {
   }
 }
 css(
-document.querySelector("#mydiv"), {
+document.querySelector("#modalFloat"), {
     'position': 'absolute',
-    'left': '290px',
+    'left': '100%', /* changed from 290px to 100% for better mobile/small view */
     'top': '300px',
     'transform': 'translate(-50%, -50%)',
     'padding': '10px'
@@ -149,8 +149,6 @@ var lnames = [
 ]
 
 var links = [
-'#',
-'#',
 '#'
 ]
 
