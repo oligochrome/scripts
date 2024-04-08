@@ -7,10 +7,14 @@
 // @include     https://web.simple-mmo.com/inventory/items*
 // @exclude     https://web.simple-mmo.com/market/listings?user_id=476520
 // @match       https://web.simple-mmo.com/inventory/storage*
-// @version     1.0.2
+// @version     2
 // @grant       none
 // @updateURL   https://github.com/oligochrome/scripts/raw/main/SMMO%20-%20non%20collectible-dumpable%20items%20highlight-%20simple-mmo.com.user.js
 // ==/UserScript==
+
+var userUrl = document.getElementsByClassName("text-xs sm:text-base font-medium text-gray-900 dark:text-gray-200")[0].childNodes[1].href
+
+if(window.location.href !=== userUrl){
 
 var badItems = ['Pie','Carrot','Special Carrot','Scalpel of Death', 'The Hamburger', 'Attuned Death', 'The Nokia', 'The Great Wall Of China', 'Hatreds Bite', 'Ivory Chestplate', 'Leather Armour', 'Weak Fishing Rod', 'Weak Shovel', 'Weak Axe', 'Weak Pickaxe', 'Fire Plate', 'Bootleg T-Shirt', 'Rusty Axe', 'Rusty Fishing Rod', 'Rusty Shovel', 'Rusty Pickaxe', 'Sword for Sloths', 'Frozen', 'Simple Dagger', 'Rotten Pumpkin', 'Delicious Candy Cane', 'Some Geezers Bow', 'Rat', 'Generic Shirt', 'Strong Shovel', 'Strong Axe', 'Strong Pickaxe', 'Strong Fishing Rod', 'Boar', 'Zombie', 'Knockoff T-shirt','A Strange Pie','Box of Chocolates','Springtime Bouquet','Easter Egg','Chocolate Egg','Balthazars Bloodstone','Delicious Pie']
 
@@ -21,7 +25,13 @@ var gwVerified = ["A Nice Rock", "Banana", "Bone", "Caramel Apple", "Cliff Flowe
 const items = document.querySelectorAll('[class*="-item"]');
 
 items.forEach(item => {
-  if (hasBuyers.includes(item.innerText)) {
+  if (hasBuyers.includes(item.innerText) && badItems.includes(item.innerText)) {
+    item.parentElement.parentElement.parentElement.parentElement.style.background = 'linear-gradient(to right, #00a2ee26 50%, #b91010bf 50%)';
+  } else if (hasBuyers.includes(item.innerText) && gwVerified.includes(item.innerText)) {
+    item.parentElement.parentElement.parentElement.parentElement.style.background = 'linear-gradient(to right, #00a2ee26 50%, #105c1ab8 50%)';
+  } else if (badItems.includes(item.innerText) && gwVerified.includes(item.innerText)) {
+    item.parentElement.parentElement.parentElement.parentElement.style.background = 'linear-gradient(to right, #b91010bf 50%, #105c1ab8 50%)';
+  } else if (hasBuyers.includes(item.innerText)) {
     item.parentElement.parentElement.parentElement.parentElement.style.background = '#00a2ee26';
   } else if (badItems.includes(item.innerText)) {
     item.parentElement.parentElement.parentElement.parentElement.style.background = '#b91010bf';
@@ -29,3 +39,4 @@ items.forEach(item => {
     item.parentElement.parentElement.parentElement.parentElement.style.background = '#105c1ab8';
   }
 });
+}
